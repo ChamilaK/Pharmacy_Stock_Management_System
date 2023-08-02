@@ -1,0 +1,91 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Pharmacy_Stock_Management_System</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>VisualBasic</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Pharmacy_Stock_Management_System</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Pharmacy_Stock_Management_System.vbproj" File="Pharmacy_Stock_Management_System.vbproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="Account.vb">Account.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Account.Designer.vb">Account.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Account.resx">Account.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Admin.vb">Admin.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Admin.Designer.vb">Admin.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Admin.resx">Admin.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Calculate.vb">Calculate.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Calculate.Designer.vb">Calculate.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Calculate.resx">Calculate.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Customer.vb">Customer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Customer.Designer.vb">Customer.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Customer.resx">Customer.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Customer_Bill.vb">Customer_Bill.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Customer_Bill.Designer.vb">Customer_Bill.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Customer_Bill.resx">Customer_Bill.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Login.vb">Login.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Login.Designer.vb">Login.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Login.resx">Login.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Main_Pharmacy.vb">Main_Pharmacy.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Main_Pharmacy.Designer.vb">Main_Pharmacy.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Main_Pharmacy.resx">Main_Pharmacy.resx</ProjectItem>
+      <Folder Name="My Project" TargetFolderName="My Project">
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.myapp">Application.myapp</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.Designer.vb">Application.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.vb">AssemblyInfo.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.vb">Resources.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.vb">Settings.Designer.vb</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="MYDBcon.vb">MYDBcon.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Order_List.vb">Order_List.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Order_List.Designer.vb">Order_List.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Order_List.resx">Order_List.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Pharmacist.vb">Pharmacist.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Pharmacist.Designer.vb">Pharmacist.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Pharmacist.resx">Pharmacist.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Purchased_Drugs_and_Items.vb">Purchased_Drugs_and_Items.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Purchased_Drugs_and_Items.Designer.vb">Purchased_Drugs_and_Items.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Purchased_Drugs_and_Items.resx">Purchased_Drugs_and_Items.resx</ProjectItem>
+      <Folder Name="Resources" TargetFolderName="Resources">
+        <ProjectItem ReplaceParameters="false" TargetFileName="side-turkey-october-pharmacy-cabinets-medicines-drugs-tablets-food-additives-105957686.jpg">side-turkey-october-pharmacy-cabinets-medicines-drugs-tablets-food-additives-105957686.jpg</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Sales Rep.vb">Sales Rep.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Sales Rep.Designer.vb">Sales Rep.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Sales Rep.resx">Sales Rep.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Customer_Bill_by_Date.vb">Search_Customer_Bill_by_Date.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Customer_Bill_by_Date.Designer.vb">Search_Customer_Bill_by_Date.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Customer_Bill_by_Date.resx">Search_Customer_Bill_by_Date.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Customers_by_Date.vb">Search_Customers_by_Date.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Customers_by_Date.Designer.vb">Search_Customers_by_Date.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Customers_by_Date.resx">Search_Customers_by_Date.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Orders_by_Date.vb">Search_Orders_by_Date.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Orders_by_Date.Designer.vb">Search_Orders_by_Date.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Orders_by_Date.resx">Search_Orders_by_Date.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Purchase_Drugs_Items_by_Date.vb">Search_Purchase_Drugs_Items_by_Date.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Purchase_Drugs_Items_by_Date.Designer.vb">Search_Purchase_Drugs_Items_by_Date.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Purchase_Drugs_Items_by_Date.resx">Search_Purchase_Drugs_Items_by_Date.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Store_by_Date.vb">Search_Store_by_Date.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Store_by_Date.Designer.vb">Search_Store_by_Date.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Search_Store_by_Date.resx">Search_Store_by_Date.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Sign.vb">Sign.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Sign.Designer.vb">Sign.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Sign.resx">Sign.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Store.vb">Store.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Store.Designer.vb">Store.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Store.resx">Store.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="User.vb">User.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="User.Designer.vb">User.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="User.resx">User.resx</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
